@@ -3,3 +3,4 @@ Jogo desenvolvido durante a semana GameDev da Alura, link para jogar: https://ed
 
 ![Gif-Jogo](https://github.com/NataliaRamalho/AventurasHipsta/blob/master/Jogogif.gif)
 
+⏰ Projeto desenvolvido em junho/2020
